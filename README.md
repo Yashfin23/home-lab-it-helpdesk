@@ -1,3 +1,4 @@
+Home lab simulating a company IT environment — Active Directory, GPOs, and osTicket helpdesk
 # Home Lab IT Helpdesk: Active Directory + osTicket
 
 A self-built home lab simulating a small company's IT environment — Active Directory for identity and device management, Group Policy for enforcement, and osTicket for support ticket tracking — built to gain genuine, hands-on experience with the tools most entry-level IT job postings ask for.
